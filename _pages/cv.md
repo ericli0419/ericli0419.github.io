@@ -15,7 +15,7 @@ Education
 * Joint Ph.D in Artificial intelligence, Tsinghua University, 2024
 * B.S. in Marine biology, Zhejiang University, 2019
 
-Positions and scientific appointments
+Positions and Scientific appointments
 ======
 * Winter 2016: Research Internship
   * Second Institute of Oceanography, Ministry of Natural Resources
