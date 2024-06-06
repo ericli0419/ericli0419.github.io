@@ -1,6 +1,7 @@
 ---
-title: "Atlantic Ocean"
-excerpt: "Perth, Australia<br/><img src='/images/DSC05015.JPG'><br/>' '<br/><img src='/images/DSC05028.JPG'>"
+title: "Portfolio item number 1"
+excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
-ZJU Ocean College-UWA Oceans Institute Students Summer Program
+
+This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
