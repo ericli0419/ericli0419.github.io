@@ -11,35 +11,41 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Bioinformatics, Peking University, 2024
+* Joint Ph.D in Artificial intelligence, Tsinghua University, 2024
+* B.S. in Marine biology, Zhejiang University, 2019
 
-Work experience
+Positions and scientific appointments
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Winter 2016: Research Internship
+  * Second Institute of Oceanography, Ministry of Natural Resources
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2017: Research Assistant
+  * School of Life Science and Technology, Shanghai Tech University
+  * Supervisor: Professor Tian Chi
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2017-2018: Student Research Training Program
+  * Ocean College, Zhejiang University 
+  * Supervisor: Professor Daoqiong Zheng
+
+* 2020-2024: Graduate Research Assistant
+  * School of Life Science, Tsinghua University
+  * Supervisor: Professor Qiangfeng Cliff Zhang
   
+Honors
+======
+* 2016, 2017, 2018: 3rd Academic Scholarship, Zhejiang University
+* 2016: 1st Research and Innovation Scholarship, Zhejiang University 
+* 2022, 2023: Award for Scientific Research, Peking University
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Deep Learning
+* Data Analysis
+  * Single cell data analysis
+  * Spatial transcriptomics data analysis
+  * NGS data analysis
+* Genomics and epigenomics analysis
 
 Publications
 ======
@@ -47,18 +53,4 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
