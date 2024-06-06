@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "My research interests"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,8 +9,13 @@ redirect_from:
 
 Working in the interface of genomics, single cell, deep learning and big data analysis with my PhD advisor Prof. Qiangfeng Cliff Zhang, my main research interest is to develop and apply innovative machine learning methods for the studies of gene regulation and cell-fate transition on the basis of advanced single cell techniques (e.g., spatial transcriptomics, single cell RNA-seq, and single cell multi-omics). The long-term goal of my work is to decipher the gene regulation of the human genome and its impact on cell fate transition for disease diagnosis and therapy.
 
-A data-driven personal website
+Research experience 
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Graduate Research: 
+1.	We developed SCALEX, a deep-learning method that integrates single cell data by projecting cells into a batch-invariant, common cell-embedding space in a truly online manner (i.e., without retraining the model). 
+2.	We characterized a novel role for smarca5 in red blood cell (RBC) aggregation using zebrafish smarca5 mutants, which may provide a new venous thrombosis animal model to support drug screening and pre-clinical therapeutic assessments to treat thrombosis. I'm in charge of data analysis, mainly for RNA-seq and ATAC-seq data.
+3.	We developed SPACE, a deep-learning method for cell type identification and tissue module discovery from spatial transcriptomics data by learning a cell representation that captures its gene expression profile and those of its spatial neighbors.
+4.	We developed a deep learning-based model, SCAPE, that predicts the transcription dynamics under in silico genetic perturbations. The manuscript is in preparation.
+5.	My current graduate research focused on deciphering gene regulatory networks for cells in human diseases (e.g., pediatric brain tumor, lung cancer, and idiopathic pulmonary fibrosis) using single cell multi-omics. The manuscripts are in preparation.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+
