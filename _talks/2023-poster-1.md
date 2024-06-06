@@ -1,8 +1,8 @@
 ---
 title: "Poster on Tissue module discovery in single-cell resolution spatial transcriptomics data via cell-cell interaction-aware cell embedding."
 collection: talks
-type: "Talk"
-permalink: /talks/2023-talk-1
+type: "Poster"
+permalink: /talks/2023-poster-1
 venue: "The 11th National Conference on Bioinformatics and Systems Biology of China"
 date: 2023-02-25
 location: "Guangzhou, China"
