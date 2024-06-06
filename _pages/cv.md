@@ -22,15 +22,15 @@ Positions and Scientific appointments
 
 * Summer 2017: Research Assistant
   * School of Life Science and Technology, Shanghai Tech University
-  * Supervisor: Professor Tian Chi
+  * Supervisor: [Professor Tian Chi](https://slst.shanghaitech.edu.cn/ct_en/main.htm)
 
 * 2017-2018: Student Research Training Program
   * Ocean College, Zhejiang University 
-  * Supervisor: Professor Daoqiong Zheng
+  * Supervisor: [Professor Daoqiong Zheng](https://person.zju.edu.cn/en/daoqiongzheng)
 
 * 2020-2024: Graduate Research Assistant
   * School of Life Science, Tsinghua University
-  * Supervisor: Professor Qiangfeng Cliff Zhang
+  * Supervisor: [Professor Qiangfeng Cliff Zhang](https://life.tsinghua.edu.cn/lifeen/info/1034/1075.htm)
   
 Honors and Awards
 ======
