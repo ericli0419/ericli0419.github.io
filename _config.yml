@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Yuzhe Li / Site Title"
+title                    : "Yuzhe Li"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -21,7 +21,7 @@ repository               : "ericli0419/ericli0419.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "liyuzhe.jpg" # "profile.png"
   name             : "Yuzhe Li"
   pronouns         : # example: "she/her"  
   bio              : "AI Biology"
