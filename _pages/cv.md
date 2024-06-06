@@ -32,7 +32,7 @@ Positions and Scientific appointments
   * School of Life Science, Tsinghua University
   * Supervisor: Professor Qiangfeng Cliff Zhang
   
-Honors
+Honors and Awards
 ======
 * 2016, 2017, 2018: 3rd Academic Scholarship, Zhejiang University
 * 2016: 1st Research and Innovation Scholarship, Zhejiang University 
