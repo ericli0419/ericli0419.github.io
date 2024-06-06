@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2022-paper-title-number-2
 excerpt: ''
 date: 2022-10-17
-venue: 'nature communications '
+venue: 'Nature communications '
 paperurl: 'https://www.nature.com/articles/s41467-022-33758-z'
 citation: 'Xiong, L.*, Tian, K.*, Li, Y., Ning, W., Gao, X., and Zhang, Q.C. Online single-cell data integration through projecting heterogeneous datasets into a common cell-embedding space. Nat Commun 13, 1–17 (2022).'
 ---
