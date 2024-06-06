@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2021-paper-title-number-1
 excerpt: ''
 date: 2021-10-26
-venue: 'Journal 1'
+venue: 'eLife'
 paperurl: 'https://elifesciences.org/articles/72557'
 citation: 'Ding, Y.*, Li, Y.*, Zhao, Z.*, Zhang, Q.C., and Liu, F. The chromatin-remodeling enzyme Smarca5 regulates erythrocyte aggregation via Keap1-Nrf2 signaling. eLife 10, e72557 (2021).'
 ---
