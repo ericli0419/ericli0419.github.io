@@ -1,7 +1,7 @@
 ---
-title: "Atlantic Ocean"
-excerpt: "Perth, Australia<br/><img src='/images/DSC05015.JPG'><br/><br/><img src='/images/DSC05028.JPG'>"
+title: "South China Sea"
+excerpt: "Hainan, China<br/><img src='/images/26591717757166_.pic_hd.jpg'><br/><br/><img src='/images/26601717757167_.pic_hd.jpg'>"
 collection: portfolio
 ---
 
-ZJU Ocean College-UWA Oceans Institute Students Summer Program. 
+Lingshui Li Autonomous County. 
