@@ -1,7 +1,7 @@
 ---
 title: 'SCALEX'
 date: 2022
-permalink: /posts/2022/blog-post-1/
+permalink: /posts/2022-blog-post-1/
 tags:
   - cool posts
   - category1
