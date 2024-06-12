@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Bioinformatics, Peking University, 2024
-* Joint Ph.D in Artificial intelligence, Tsinghua University, 2024
+* Ph.D. in Bioinformatics, Peking University, 2024
+* Joint Ph.D. in Artificial intelligence, Tsinghua University, 2024
 * B.S. in Marine biology, Zhejiang University, 2019
 
 Positions and Scientific appointments
