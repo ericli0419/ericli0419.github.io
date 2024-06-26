@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Working in the interface of genomics, single cell, deep learning and big data analysis with my PhD advisor Prof. [Qiangfeng Cliff Zhang](https://life.tsinghua.edu.cn/lifeen/info/1034/1075.htm), my main research interest is to develop and apply innovative machine learning methods for the studies of gene regulation and cell fate transition on the basis of advanced single cell techniques (e.g., spatial transcriptomics, single cell RNA-seq, and single cell multi-omics). The long-term goal of my work is to decipher the gene regulation of the human genome and its impact on cell fate transition for disease diagnosis and therapy. 
+Working in the interface of genomics, single cell, deep learning and big data analysis with my PhD advisor Prof. [Qiangfeng Cliff Zhang](https://life.tsinghua.edu.cn/lifeen/info/1034/1075.htm), my main research interest is to develop and apply innovative machine learning methods for the studies of gene regulation and cell fate transition on the basis of advanced single cell techniques (e.g., spatial transcriptomics, single cell RNA-seq, and single cell multi-omics). The long-term goal of my work is to decipher the gene regulation of the human genome and its impact on cell state transition for disease diagnosis and therapy. 
 
 Feel free to reach out by email liyuzhe at pku.edu.cn.
 
