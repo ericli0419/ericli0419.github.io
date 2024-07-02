@@ -20,3 +20,10 @@ Graduate Research:
 3.	We developed SPACE, a deep-learning method for cell type identification and tissue module discovery from spatial transcriptomics data by learning a cell representation that captures its gene expression profile and those of its spatial neighbors.
 4.	We developed a deep learning-based model, SCAPE, that predicts the transcription dynamics under in silico genetic perturbations. The manuscript is in preparation.
 5.	My current graduate research focused on deciphering gene regulatory networks for cells in human diseases (e.g., pediatric brain tumor, lung cancer, and idiopathic pulmonary fibrosis) using single cell multi-omics. The manuscripts are in preparation.
+
+Current Research and Scholarly Interests
+======
+My research focuses on develop deep learning methods to
+1. Spatial multi-omics data analysis
+2. Infer the dynamics of cell state transition
+3. Build foundational model for single-cell genomics
