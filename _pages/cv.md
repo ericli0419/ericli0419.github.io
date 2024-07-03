@@ -31,6 +31,10 @@ Positions and Scientific appointments
 * 2020-2024: Graduate Research Assistant
   * School of Life Science, Tsinghua University
   * Supervisor: Professor [Qiangfeng Cliff Zhang](https://life.tsinghua.edu.cn/lifeen/info/1034/1075.htm)
+
+* 2024-Present: Postdoctoral Scholar
+  * School of Life Science, Tsinghua University
+  * Supervisor: Professor [Qiangfeng Cliff Zhang](https://life.tsinghua.edu.cn/lifeen/info/1034/1075.htm)
   
 Honors and Awards
 ======
