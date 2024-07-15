@@ -12,6 +12,13 @@ Working in the interface of genomics, single cell, deep learning and big data an
 
 Feel free to reach out by email liyuzhe at pku.edu.cn.
 
+Current Research and Scholarly Interests
+======
+My research focuses on develop deep learning methods to
+1. Spatial multi-omics data analysis
+2. Infer the dynamics of cell state transition
+3. Build foundational model for single-cell genomics
+
 Research experience 
 ======
 Graduate Research: 
@@ -21,9 +28,3 @@ Graduate Research:
 4.	We developed a deep learning-based model, SCAPE, that predicts the transcription dynamics under in silico genetic perturbations. The manuscript is in preparation.
 5.	My current graduate research focused on deciphering gene regulatory networks for cells in human diseases (e.g., pediatric brain tumor, lung cancer, and idiopathic pulmonary fibrosis) using single cell multi-omics. The manuscripts are in preparation.
 
-Current Research and Scholarly Interests
-======
-My research focuses on develop deep learning methods to
-1. Spatial multi-omics data analysis
-2. Infer the dynamics of cell state transition
-3. Build foundational model for single-cell genomics
